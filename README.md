@@ -7,4 +7,4 @@
 
 ## **Технологии**:
 
-Node.js, Express, Quasar Framework, Vue.js, Axios, JavaScript, dotenv.
+Node.js, Express, Quasar Framework, Vue.js, Axios.
